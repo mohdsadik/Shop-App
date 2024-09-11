@@ -1,16 +1,13 @@
-# shop_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Shop App
+ ## Description: 
+ ### A shop app utilizing Provider for state management, Firebase for authentication and realtime data, and Shared Preferences for login functionality.
+ ## Technologies: 
+### Provider, Firebase Authentication, Firebase Realtime Database, Shared Preferences.
+## Features:
+  ### Secure user login.
+   ### Realtime data with Firebase.
+   ### State management with Provider.
+   ## Installation:
+   ### Clone the repository.
+   ### Set up Firebase credentials.
+   ### Run the app using `flutter run`.
